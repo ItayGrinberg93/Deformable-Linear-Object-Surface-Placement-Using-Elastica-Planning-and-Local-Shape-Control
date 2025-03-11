@@ -36,7 +36,7 @@ This repository contains two-layered DLO placement method, high-planner based on
 </p>
 
 
-video: https://youtu.be/wRF59OKdEM4
+video: [https://youtu.be/wRF59OKdEM4](https://youtu.be/w2xjYvE4INc)
 
 
 
