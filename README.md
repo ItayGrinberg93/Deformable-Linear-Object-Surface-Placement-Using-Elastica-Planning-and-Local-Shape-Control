@@ -7,6 +7,10 @@ This repository contains two-layered DLO placement method, high-planner based on
 
 <p align="center">
 <b><i>The placement process</i></b>
+
+https://github.com/user-attachments/assets/e99e3866-8abb-4427-be7c-7e5ad0706742
+
+
 </p>
 
 
@@ -64,10 +68,10 @@ The low-level layer forms a pipeline controller. The controller estimates the DL
 ##### Objective
 
 In order to place the DLO effectively, precise manner and without damage or distortions, the need to make a controlled and well-planned movement.
-Our work proposed a novel approach to shape control of DLOs which could have potential applications in the handling of fresh food prodacts.
-This is a challenging problem since it requires an online analysis of the current setting of the environment and the current capabilities of the agent. In addition, it requires an integration of high-level task planning and low-level motion control. 
+Our work proposed a novel approach to shape control of DLOs, which could have potential applications in the handling of fresh food products.
+This is a challenging problem since it requires an online analysis of the environment's current setting and the agent's current capabilities. In addition, it requires an integration of high-level task planning and low-level motion control. 
 
-Within the context of this, the placement cycle can be divided into the following tasks:
+Within this context, the placement cycle can be divided into the following tasks:
 
 * Bring the DLO from the transportation process target to the attachment point with the tray.
 * Getting the DLO ready for rolling, the tip does not slip and the tray does not slip on the worktable.
@@ -90,11 +94,11 @@ The project uses ROS2 Humble Hawksbill running on Ubuntu 22.04 LTS (Jammy Jellyf
 
 #### 2.2 Code Documentation
 
-The two-layered framework code is splits to high-palnner and low-level controller. 
+The two-layered framework code is split into a high-level planner and a low-level controller. 
 
-##### high-level placment planning
+##### high-level placement planning
 
-##### low-level placment control
+##### low-level placement control
 
 
 ------------
